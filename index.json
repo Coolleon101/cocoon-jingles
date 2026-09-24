@@ -47,6 +47,13 @@
    "regex": "mega[^a-z0-9]+man[^a-z0-9]+x[^a-z0-9]+collection"
   }
  ],
+ "gamenative": [
+  {
+   "game": "Hollow Knight",
+   "file": "jingles/gamenative/Rahal/Hollow Knight (Rahal).ogg",
+   "regex": "hollow[^a-z0-9]+knight"
+  }
+ ],
  "gba": [
   {
    "game": "Advance Wars 2 - Black Hole Rising (USA)",
@@ -833,6 +840,13 @@
    "game": "Yu-Gi-Oh! - World Championship 2007 (USA) (En,Ja)",
    "file": "jingles/nds/Rahal/Yu-Gi-Oh! - World Championship 2007 (USA) (En,Ja) (Rahal).ogg",
    "regex": "yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+world[^a-z0-9]+championship[^a-z0-9]+2007"
+  }
+ ],
+ "steam": [
+  {
+   "game": "Hollow Knight",
+   "file": "jingles/steam/Rahal/Hollow Knight (Rahal).ogg",
+   "regex": "hollow[^a-z0-9]+knight"
   }
  ],
  "switch": [
