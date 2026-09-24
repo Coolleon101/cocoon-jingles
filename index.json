@@ -1,0 +1,912 @@
+{
+ "name": "Rahal - ROM hacks & personal",
+ "gamecube": [
+  {
+   "game": "Legend of Spyro, The - A New Beginning (USA)",
+   "file": "jingles/gamecube/CirnoWaifu/Legend of Spyro, The - A New Beginning (USA) (CirnoWaifu).ogg",
+   "regex": "legend[^a-z0-9]+of[^a-z0-9]+spyro[^a-z0-9]+the[^a-z0-9]+a[^a-z0-9]+new[^a-z0-9]+beginning"
+  },
+  {
+   "game": "Legend of Zelda, The - Four Swords Adventures (USA)",
+   "file": "jingles/gamecube/CirnoWaifu/Legend of Zelda, The - Four Swords Adventures (USA) (CirnoWaifu).ogg",
+   "regex": "legend[^a-z0-9]+of[^a-z0-9]+zelda[^a-z0-9]+the[^a-z0-9]+four[^a-z0-9]+swords[^a-z0-9]+adventures"
+  },
+  {
+   "game": "Legend of Zelda, The - Ocarina of Time & Master Quest (USA)",
+   "file": "jingles/gamecube/CirnoWaifu/Legend of Zelda, The - Ocarina of Time & Master Quest (USA) (CirnoWaifu).ogg",
+   "regex": "legend[^a-z0-9]+of[^a-z0-9]+zelda[^a-z0-9]+the[^a-z0-9]+ocarina[^a-z0-9]+of[^a-z0-9]+time[^a-z0-9]+master[^a-z0-9]+quest"
+  },
+  {
+   "game": "Legend of Zelda, The - The Wind Waker (USA)",
+   "file": "jingles/gamecube/CirnoWaifu/Legend of Zelda, The - The Wind Waker (USA) (CirnoWaifu).ogg",
+   "regex": "legend[^a-z0-9]+of[^a-z0-9]+zelda[^a-z0-9]+the[^a-z0-9]+the[^a-z0-9]+wind[^a-z0-9]+waker"
+  },
+  {
+   "game": "Legend of Zelda, The - Twilight Princess (USA)",
+   "file": "jingles/gamecube/CirnoWaifu/Legend of Zelda, The - Twilight Princess (USA) (CirnoWaifu).ogg",
+   "regex": "legend[^a-z0-9]+of[^a-z0-9]+zelda[^a-z0-9]+the[^a-z0-9]+twilight[^a-z0-9]+princess"
+  },
+  {
+   "game": "Mario Power Tennis (USA) (Rev 1)",
+   "file": "jingles/gamecube/Felipne87r/Mario Power Tennis (USA) (Rev 1) (Felipne87r).ogg",
+   "regex": "mario[^a-z0-9]+power[^a-z0-9]+tennis"
+  },
+  {
+   "game": "Mega Man X - Command Mission (USA)",
+   "file": "jingles/gamecube/Gracie Failfox/Mega Man X - Command Mission (USA) (Gracie Failfox).ogg",
+   "regex": "mega[^a-z0-9]+man[^a-z0-9]+x[^a-z0-9]+command[^a-z0-9]+mission"
+  },
+  {
+   "game": "Metroid Prime 2 - Echoes (USA)",
+   "file": "jingles/gamecube/Natalie/Metroid Prime 2 - Echoes (USA) (Natalie).ogg",
+   "regex": "metroid[^a-z0-9]+prime[^a-z0-9]+2[^a-z0-9]+echoes"
+  },
+  {
+   "game": "Mega Man X Collection (USA)",
+   "file": "jingles/gamecube/RetroWave64/Mega Man X Collection (USA) (RetroWave64).ogg",
+   "regex": "mega[^a-z0-9]+man[^a-z0-9]+x[^a-z0-9]+collection"
+  }
+ ],
+ "gba": [
+  {
+   "game": "Advance Wars 2 - Black Hole Rising (USA)",
+   "file": "jingles/gba/Rahal/Advance Wars 2 - Black Hole Rising (USA) (Rahal).ogg",
+   "regex": "advance[^a-z0-9]+wars[^a-z0-9]+2[^a-z0-9]+black[^a-z0-9]+hole[^a-z0-9]+rising"
+  },
+  {
+   "game": "Crash Nitro Kart (USA)",
+   "file": "jingles/gba/Rahal/Crash Nitro Kart (USA) (Rahal).ogg",
+   "regex": "crash[^a-z0-9]+nitro[^a-z0-9]+kart"
+  },
+  {
+   "game": "F-Zero - GP Legend (USA)",
+   "file": "jingles/gba/Rahal/F-Zero - GP Legend (USA) (Rahal).ogg",
+   "regex": "f[^a-z0-9]+zero[^a-z0-9]+gp[^a-z0-9]+legend"
+  },
+  {
+   "game": "Final Fantasy IV Advance (USA)",
+   "file": "jingles/gba/Rahal/Final Fantasy IV Advance (USA) (Rahal).ogg",
+   "regex": "final[^a-z0-9]+fantasy[^a-z0-9]+iv[^a-z0-9]+advance"
+  },
+  {
+   "game": "Final Fantasy V Advance (USA)",
+   "file": "jingles/gba/Rahal/Final Fantasy V Advance (USA) (Rahal).ogg",
+   "regex": "final[^a-z0-9]+fantasy[^a-z0-9]+v[^a-z0-9]+advance"
+  },
+  {
+   "game": "Final Fantasy VI Advance (USA)",
+   "file": "jingles/gba/Rahal/Final Fantasy VI Advance (USA) (Rahal).ogg",
+   "regex": "final[^a-z0-9]+fantasy[^a-z0-9]+vi[^a-z0-9]+advance"
+  },
+  {
+   "game": "GT Advance - Championship Racing (USA, Europe)",
+   "file": "jingles/gba/Rahal/GT Advance - Championship Racing (USA, Europe) (Rahal).ogg",
+   "regex": "gt[^a-z0-9]+advance[^a-z0-9]+championship[^a-z0-9]+racing"
+  },
+  {
+   "game": "Game & Watch Gallery 4 (USA)",
+   "file": "jingles/gba/Rahal/Game & Watch Gallery 4 (USA) (Rahal).ogg",
+   "regex": "game[^a-z0-9]+watch[^a-z0-9]+gallery[^a-z0-9]+4"
+  },
+  {
+   "game": "Harvest Moon - Friends of Mineral Town (USA)",
+   "file": "jingles/gba/Rahal/Harvest Moon - Friends of Mineral Town (USA) (Rahal).ogg",
+   "regex": "harvest[^a-z0-9]+moon[^a-z0-9]+friends[^a-z0-9]+of[^a-z0-9]+mineral[^a-z0-9]+town"
+  },
+  {
+   "game": "Harvest Moon - More Friends of Mineral Town (USA)",
+   "file": "jingles/gba/Rahal/Harvest Moon - More Friends of Mineral Town (USA) (Rahal).ogg",
+   "regex": "harvest[^a-z0-9]+moon[^a-z0-9]+more[^a-z0-9]+friends[^a-z0-9]+of[^a-z0-9]+mineral[^a-z0-9]+town"
+  },
+  {
+   "game": "Legend of Zelda, The - A Link to the Past & Four Swords (USA)",
+   "file": "jingles/gba/Rahal/Legend of Zelda, The - A Link to the Past & Four Swords (USA) (Rahal).ogg",
+   "regex": "legend[^a-z0-9]+of[^a-z0-9]+zelda[^a-z0-9]+the[^a-z0-9]+a[^a-z0-9]+link[^a-z0-9]+to[^a-z0-9]+the[^a-z0-9]+past[^a-z0-9]+four[^a-z0-9]+swords"
+  },
+  {
+   "game": "Legend of Zelda, The - The Minish Cap (USA)",
+   "file": "jingles/gba/Rahal/Legend of Zelda, The - The Minish Cap (USA) (Rahal).ogg",
+   "regex": "legend[^a-z0-9]+of[^a-z0-9]+zelda[^a-z0-9]+the[^a-z0-9]+the[^a-z0-9]+minish[^a-z0-9]+cap"
+  },
+  {
+   "game": "Lilo & Stitch (USA)",
+   "file": "jingles/gba/Rahal/Lilo & Stitch (USA) (Rahal).ogg",
+   "regex": "lilo[^a-z0-9]+stitch"
+  },
+  {
+   "game": "Lilo & Stitch 2 - Haemsterviel Havoc (USA)",
+   "file": "jingles/gba/Rahal/Lilo & Stitch 2 - Haemsterviel Havoc (USA) (Rahal).ogg",
+   "regex": "lilo[^a-z0-9]+stitch[^a-z0-9]+2[^a-z0-9]+haemsterviel[^a-z0-9]+havoc"
+  },
+  {
+   "game": "Mario & Luigi - Superstar Saga (USA)",
+   "file": "jingles/gba/Rahal/Mario & Luigi - Superstar Saga (USA) (Rahal).ogg",
+   "regex": "mario[^a-z0-9]+luigi[^a-z0-9]+superstar[^a-z0-9]+saga"
+  },
+  {
+   "game": "Mario Pinball Land (USA, Australia)",
+   "file": "jingles/gba/Rahal/Mario Pinball Land (USA, Australia) (Rahal).ogg",
+   "regex": "mario[^a-z0-9]+pinball[^a-z0-9]+land"
+  },
+  {
+   "game": "Mega Man & Bass (USA)",
+   "file": "jingles/gba/Rahal/Mega Man & Bass (USA) (Rahal).ogg",
+   "regex": "mega[^a-z0-9]+man[^a-z0-9]+bass"
+  },
+  {
+   "game": "Mega Man Battle Network 3 - Blue Version (USA)",
+   "file": "jingles/gba/Rahal/Mega Man Battle Network 3 - Blue Version (USA) (Rahal).ogg",
+   "regex": "mega[^a-z0-9]+man[^a-z0-9]+battle[^a-z0-9]+network[^a-z0-9]+3[^a-z0-9]+blue[^a-z0-9]+version"
+  },
+  {
+   "game": "Mega Man Battle Network 3 - White Version (USA)",
+   "file": "jingles/gba/Rahal/Mega Man Battle Network 3 - White Version (USA) (Rahal).ogg",
+   "regex": "mega[^a-z0-9]+man[^a-z0-9]+battle[^a-z0-9]+network[^a-z0-9]+3[^a-z0-9]+white[^a-z0-9]+version"
+  },
+  {
+   "game": "Mega Man Battle Network 4 - Blue Moon (USA)",
+   "file": "jingles/gba/Rahal/Mega Man Battle Network 4 - Blue Moon (USA) (Rahal).ogg",
+   "regex": "mega[^a-z0-9]+man[^a-z0-9]+battle[^a-z0-9]+network[^a-z0-9]+4[^a-z0-9]+blue[^a-z0-9]+moon"
+  },
+  {
+   "game": "Mega Man Battle Network 4 - Red Sun (USA)",
+   "file": "jingles/gba/Rahal/Mega Man Battle Network 4 - Red Sun (USA) (Rahal).ogg",
+   "regex": "mega[^a-z0-9]+man[^a-z0-9]+battle[^a-z0-9]+network[^a-z0-9]+4[^a-z0-9]+red[^a-z0-9]+sun"
+  },
+  {
+   "game": "Mega Man Battle Network 5 - Team Colonel (USA)",
+   "file": "jingles/gba/Rahal/Mega Man Battle Network 5 - Team Colonel (USA) (Rahal).ogg",
+   "regex": "mega[^a-z0-9]+man[^a-z0-9]+battle[^a-z0-9]+network[^a-z0-9]+5[^a-z0-9]+team[^a-z0-9]+colonel"
+  },
+  {
+   "game": "Mega Man Battle Network 5 - Team Protoman (USA)",
+   "file": "jingles/gba/Rahal/Mega Man Battle Network 5 - Team Protoman (USA) (Rahal).ogg",
+   "regex": "mega[^a-z0-9]+man[^a-z0-9]+battle[^a-z0-9]+network[^a-z0-9]+5[^a-z0-9]+team[^a-z0-9]+protoman"
+  },
+  {
+   "game": "Mega Man Battle Network 6 - Cybeast Falzar (USA)",
+   "file": "jingles/gba/Rahal/Mega Man Battle Network 6 - Cybeast Falzar (USA) (Rahal).ogg",
+   "regex": "mega[^a-z0-9]+man[^a-z0-9]+battle[^a-z0-9]+network[^a-z0-9]+6[^a-z0-9]+cybeast[^a-z0-9]+falzar"
+  },
+  {
+   "game": "Mega Man Battle Network 6 - Cybeast Gregar (USA)",
+   "file": "jingles/gba/Rahal/Mega Man Battle Network 6 - Cybeast Gregar (USA) (Rahal).ogg",
+   "regex": "mega[^a-z0-9]+man[^a-z0-9]+battle[^a-z0-9]+network[^a-z0-9]+6[^a-z0-9]+cybeast[^a-z0-9]+gregar"
+  },
+  {
+   "game": "Motocross Maniacs Advance (USA) (En,Es)",
+   "file": "jingles/gba/Rahal/Motocross Maniacs Advance (USA) (En,Es) (Rahal).ogg",
+   "regex": "motocross[^a-z0-9]+maniacs[^a-z0-9]+advance"
+  },
+  {
+   "game": "Motoracer Advance (USA) (En,Fr,De,Es,It)",
+   "file": "jingles/gba/Rahal/Motoracer Advance (USA) (En,Fr,De,Es,It) (Rahal).ogg",
+   "regex": "motoracer[^a-z0-9]+advance"
+  },
+  {
+   "game": "Pokemon - Emerald Seaglass",
+   "file": "jingles/gba/Rahal/Pokemon - Emerald Seaglass (Rahal).ogg",
+   "regex": "pokemon[^a-z0-9]+emerald[^a-z0-9]+seaglass"
+  },
+  {
+   "game": "Pokemon - Gaia Version",
+   "file": "jingles/gba/Rahal/Pokemon - Gaia Version (Rahal).ogg",
+   "regex": "pokemon[^a-z0-9]+gaia[^a-z0-9]+version"
+  },
+  {
+   "game": "Pokemon All in",
+   "file": "jingles/gba/Rahal/Pokemon All in (Rahal).ogg",
+   "regex": "pokemon[^a-z0-9]+all[^a-z0-9]+in"
+  },
+  {
+   "game": "Pokemon Classic",
+   "file": "jingles/gba/Rahal/Pokemon Classic (Rahal).ogg",
+   "regex": "pokemon[^a-z0-9]+classic"
+  },
+  {
+   "game": "Pokemon Dreamstone Mysteries",
+   "file": "jingles/gba/Rahal/Pokemon Dreamstone Mysteries (Rahal).ogg",
+   "regex": "pokemon[^a-z0-9]+dreamstone[^a-z0-9]+mysteries"
+  },
+  {
+   "game": "Pokemon Heart and Soul",
+   "file": "jingles/gba/Rahal/Pokemon Heart and Soul (Rahal).ogg",
+   "regex": "pokemon[^a-z0-9]+heart[^a-z0-9]+and[^a-z0-9]+soul"
+  },
+  {
+   "game": "Pokemon Lazarus v2.0",
+   "file": "jingles/gba/Rahal/Pokemon Lazarus v2.0 (Rahal).ogg",
+   "regex": "pokemon[^a-z0-9]+lazarus"
+  },
+  {
+   "game": "Pokemon Odyssey",
+   "file": "jingles/gba/Rahal/Pokemon Odyssey (Rahal).ogg",
+   "regex": "pokemon[^a-z0-9]+odyssey"
+  },
+  {
+   "game": "Pokemon Radical Red",
+   "file": "jingles/gba/Rahal/Pokemon Radical Red (Rahal).ogg",
+   "regex": "pokemon[^a-z0-9]+radical[^a-z0-9]+red"
+  },
+  {
+   "game": "Pokemon Recharged Yellow",
+   "file": "jingles/gba/Rahal/Pokemon Recharged Yellow (Rahal).ogg",
+   "regex": "pokemon[^a-z0-9]+recharged[^a-z0-9]+yellow"
+  },
+  {
+   "game": "Pokemon Royal Sapphire",
+   "file": "jingles/gba/Rahal/Pokemon Royal Sapphire (Rahal).ogg",
+   "regex": "pokemon[^a-z0-9]+royal[^a-z0-9]+sapphire"
+  },
+  {
+   "game": "Pokemon The Pit",
+   "file": "jingles/gba/Rahal/Pokemon The Pit (Rahal).ogg",
+   "regex": "pokemon[^a-z0-9]+the[^a-z0-9]+pit"
+  },
+  {
+   "game": "Pokemon Unbound",
+   "file": "jingles/gba/Rahal/Pokemon Unbound (Rahal).ogg",
+   "regex": "pokemon[^a-z0-9]+unbound"
+  },
+  {
+   "game": "Rayman Advance (USA) (En,Fr,De,Es,It)",
+   "file": "jingles/gba/Rahal/Rayman Advance (USA) (En,Fr,De,Es,It) (Rahal).ogg",
+   "regex": "rayman[^a-z0-9]+advance"
+  },
+  {
+   "game": "Rhythm Tengoku (Japan) [T-En by W hat Beta 13a] [n]",
+   "file": "jingles/gba/Rahal/Rhythm Tengoku (Japan) [T-En by W hat Beta 13a] [n] (Rahal).ogg",
+   "regex": "rhythm[^a-z0-9]+tengoku"
+  },
+  {
+   "game": "Spider-Man - Mysterio's Menace (USA, Europe)",
+   "file": "jingles/gba/Rahal/Spider-Man - Mysterio's Menace (USA, Europe) (Rahal).ogg",
+   "regex": "spider[^a-z0-9]+man[^a-z0-9]+mysterio[^a-z0-9]+s[^a-z0-9]+menace"
+  },
+  {
+   "game": "Spirits",
+   "file": "jingles/gba/Rahal/Spirits (Rahal).ogg",
+   "regex": "spirits"
+  },
+  {
+   "game": "Street Fighter Alpha 3 (USA)",
+   "file": "jingles/gba/Rahal/Street Fighter Alpha 3 (USA) (Rahal).ogg",
+   "regex": "street[^a-z0-9]+fighter[^a-z0-9]+alpha[^a-z0-9]+3"
+  },
+  {
+   "game": "Super Puzzle Fighter II (USA) (Rev 1)",
+   "file": "jingles/gba/Rahal/Super Puzzle Fighter II (USA) (Rev 1) (Rahal).ogg",
+   "regex": "super[^a-z0-9]+puzzle[^a-z0-9]+fighter[^a-z0-9]+ii"
+  },
+  {
+   "game": "Super Robot Taisen R (Japan) [T-En by Shadownall v090202] [i]",
+   "file": "jingles/gba/Rahal/Super Robot Taisen R (Japan) [T-En by Shadownall v090202] [i] (Rahal).ogg",
+   "regex": "super[^a-z0-9]+robot[^a-z0-9]+taisen[^a-z0-9]+r"
+  },
+  {
+   "game": "Super Street Fighter II Turbo - Revival (USA)",
+   "file": "jingles/gba/Rahal/Super Street Fighter II Turbo - Revival (USA) (Rahal).ogg",
+   "regex": "super[^a-z0-9]+street[^a-z0-9]+fighter[^a-z0-9]+ii[^a-z0-9]+turbo[^a-z0-9]+revival"
+  },
+  {
+   "game": "TMNT (USA) (En,Fr,Es)",
+   "file": "jingles/gba/Rahal/TMNT (USA) (En,Fr,Es) (Rahal).ogg",
+   "regex": "tmnt"
+  },
+  {
+   "game": "Teenage Mutant Ninja Turtles (USA)",
+   "file": "jingles/gba/Rahal/Teenage Mutant Ninja Turtles (USA) (Rahal).ogg",
+   "regex": "teenage[^a-z0-9]+mutant[^a-z0-9]+ninja[^a-z0-9]+turtles"
+  },
+  {
+   "game": "Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA)",
+   "file": "jingles/gba/Rahal/Teenage Mutant Ninja Turtles 2 - Battle Nexus (USA) (Rahal).ogg",
+   "regex": "teenage[^a-z0-9]+mutant[^a-z0-9]+ninja[^a-z0-9]+turtles[^a-z0-9]+2[^a-z0-9]+battle[^a-z0-9]+nexus"
+  },
+  {
+   "game": "Tony Hawk's Pro Skater 2 (USA, Europe)",
+   "file": "jingles/gba/Rahal/Tony Hawk's Pro Skater 2 (USA, Europe) (Rahal).ogg",
+   "regex": "tony[^a-z0-9]+hawk[^a-z0-9]+s[^a-z0-9]+pro[^a-z0-9]+skater[^a-z0-9]+2"
+  },
+  {
+   "game": "Tony Hawk's Pro Skater 3 (USA, Europe)",
+   "file": "jingles/gba/Rahal/Tony Hawk's Pro Skater 3 (USA, Europe) (Rahal).ogg",
+   "regex": "tony[^a-z0-9]+hawk[^a-z0-9]+s[^a-z0-9]+pro[^a-z0-9]+skater[^a-z0-9]+3"
+  },
+  {
+   "game": "Tony Hawk's Pro Skater 4 (USA, Europe)",
+   "file": "jingles/gba/Rahal/Tony Hawk's Pro Skater 4 (USA, Europe) (Rahal).ogg",
+   "regex": "tony[^a-z0-9]+hawk[^a-z0-9]+s[^a-z0-9]+pro[^a-z0-9]+skater[^a-z0-9]+4"
+  },
+  {
+   "game": "Tony Hawk's Underground (USA, Europe)",
+   "file": "jingles/gba/Rahal/Tony Hawk's Underground (USA, Europe) (Rahal).ogg",
+   "regex": "tony[^a-z0-9]+hawk[^a-z0-9]+s[^a-z0-9]+underground"
+  },
+  {
+   "game": "Tony Hawk's Underground 2 (USA, Europe)",
+   "file": "jingles/gba/Rahal/Tony Hawk's Underground 2 (USA, Europe) (Rahal).ogg",
+   "regex": "tony[^a-z0-9]+hawk[^a-z0-9]+s[^a-z0-9]+underground[^a-z0-9]+2"
+  },
+  {
+   "game": "Ultimate Brain Games (USA, Europe)",
+   "file": "jingles/gba/Rahal/Ultimate Brain Games (USA, Europe) (Rahal).ogg",
+   "regex": "ultimate[^a-z0-9]+brain[^a-z0-9]+games"
+  },
+  {
+   "game": "WarioWare, Inc. - Mega Microgame$! (USA)",
+   "file": "jingles/gba/Rahal/WarioWare, Inc. - Mega Microgame$! (USA) (Rahal).ogg",
+   "regex": "warioware[^a-z0-9]+inc[^a-z0-9]+mega[^a-z0-9]+microgame"
+  },
+  {
+   "game": "Worms World Party (USA) (En,Fr,De,Es,It)",
+   "file": "jingles/gba/Rahal/Worms World Party (USA) (En,Fr,De,Es,It) (Rahal).ogg",
+   "regex": "worms[^a-z0-9]+world[^a-z0-9]+party"
+  }
+ ],
+ "gc": [
+  {
+   "game": "Legend of Spyro, The - A New Beginning (USA)",
+   "file": "jingles/gc/CirnoWaifu/Legend of Spyro, The - A New Beginning (USA) (CirnoWaifu).ogg",
+   "regex": "legend[^a-z0-9]+of[^a-z0-9]+spyro[^a-z0-9]+the[^a-z0-9]+a[^a-z0-9]+new[^a-z0-9]+beginning"
+  },
+  {
+   "game": "Legend of Zelda, The - Four Swords Adventures (USA)",
+   "file": "jingles/gc/CirnoWaifu/Legend of Zelda, The - Four Swords Adventures (USA) (CirnoWaifu).ogg",
+   "regex": "legend[^a-z0-9]+of[^a-z0-9]+zelda[^a-z0-9]+the[^a-z0-9]+four[^a-z0-9]+swords[^a-z0-9]+adventures"
+  },
+  {
+   "game": "Legend of Zelda, The - Ocarina of Time & Master Quest (USA)",
+   "file": "jingles/gc/CirnoWaifu/Legend of Zelda, The - Ocarina of Time & Master Quest (USA) (CirnoWaifu).ogg",
+   "regex": "legend[^a-z0-9]+of[^a-z0-9]+zelda[^a-z0-9]+the[^a-z0-9]+ocarina[^a-z0-9]+of[^a-z0-9]+time[^a-z0-9]+master[^a-z0-9]+quest"
+  },
+  {
+   "game": "Legend of Zelda, The - The Wind Waker (USA)",
+   "file": "jingles/gc/CirnoWaifu/Legend of Zelda, The - The Wind Waker (USA) (CirnoWaifu).ogg",
+   "regex": "legend[^a-z0-9]+of[^a-z0-9]+zelda[^a-z0-9]+the[^a-z0-9]+the[^a-z0-9]+wind[^a-z0-9]+waker"
+  },
+  {
+   "game": "Legend of Zelda, The - Twilight Princess (USA)",
+   "file": "jingles/gc/CirnoWaifu/Legend of Zelda, The - Twilight Princess (USA) (CirnoWaifu).ogg",
+   "regex": "legend[^a-z0-9]+of[^a-z0-9]+zelda[^a-z0-9]+the[^a-z0-9]+twilight[^a-z0-9]+princess"
+  },
+  {
+   "game": "Mario Power Tennis (USA) (Rev 1)",
+   "file": "jingles/gc/Felipne87r/Mario Power Tennis (USA) (Rev 1) (Felipne87r).ogg",
+   "regex": "mario[^a-z0-9]+power[^a-z0-9]+tennis"
+  },
+  {
+   "game": "Mega Man X - Command Mission (USA)",
+   "file": "jingles/gc/Gracie Failfox/Mega Man X - Command Mission (USA) (Gracie Failfox).ogg",
+   "regex": "mega[^a-z0-9]+man[^a-z0-9]+x[^a-z0-9]+command[^a-z0-9]+mission"
+  },
+  {
+   "game": "Metroid Prime 2 - Echoes (USA)",
+   "file": "jingles/gc/Natalie/Metroid Prime 2 - Echoes (USA) (Natalie).ogg",
+   "regex": "metroid[^a-z0-9]+prime[^a-z0-9]+2[^a-z0-9]+echoes"
+  },
+  {
+   "game": "Mega Man X Collection (USA)",
+   "file": "jingles/gc/RetroWave64/Mega Man X Collection (USA) (RetroWave64).ogg",
+   "regex": "mega[^a-z0-9]+man[^a-z0-9]+x[^a-z0-9]+collection"
+  }
+ ],
+ "n3ds": [
+  {
+   "game": "Fire Emblem - Awakening (Europe) (En,Fr,De,Es,It)",
+   "file": "jingles/n3ds/Rahal/Fire Emblem - Awakening (Europe) (En,Fr,De,Es,It) (Rahal).ogg",
+   "regex": "fire[^a-z0-9]+emblem[^a-z0-9]+awakening"
+  },
+  {
+   "game": "Legend of Zelda, The - A Link Between Worlds (USA) (En,Fr,Es)",
+   "file": "jingles/n3ds/Rahal/Legend of Zelda, The - A Link Between Worlds (USA) (En,Fr,Es) (Rahal).ogg",
+   "regex": "legend[^a-z0-9]+of[^a-z0-9]+zelda[^a-z0-9]+the[^a-z0-9]+a[^a-z0-9]+link[^a-z0-9]+between[^a-z0-9]+worlds"
+  },
+  {
+   "game": "Legend of Zelda, The - Majora's Mask 3D (USA) (En,Fr,Es) (Rev 1)",
+   "file": "jingles/n3ds/Rahal/Legend of Zelda, The - Majora's Mask 3D (USA) (En,Fr,Es) (Rev 1) (Rahal).ogg",
+   "regex": "legend[^a-z0-9]+of[^a-z0-9]+zelda[^a-z0-9]+the[^a-z0-9]+majora[^a-z0-9]+s[^a-z0-9]+mask[^a-z0-9]+3d"
+  },
+  {
+   "game": "Legend of Zelda, The - Ocarina of Time 3D (USA) (En,Fr,Es) (Rev 1)",
+   "file": "jingles/n3ds/Rahal/Legend of Zelda, The - Ocarina of Time 3D (USA) (En,Fr,Es) (Rev 1) (Rahal).ogg",
+   "regex": "legend[^a-z0-9]+of[^a-z0-9]+zelda[^a-z0-9]+the[^a-z0-9]+ocarina[^a-z0-9]+of[^a-z0-9]+time[^a-z0-9]+3d"
+  },
+  {
+   "game": "Legend of Zelda, The - Tri Force Heroes (Europe) (En,Fr,De,Es,It)",
+   "file": "jingles/n3ds/Rahal/Legend of Zelda, The - Tri Force Heroes (Europe) (En,Fr,De,Es,It) (Rahal).ogg",
+   "regex": "legend[^a-z0-9]+of[^a-z0-9]+zelda[^a-z0-9]+the[^a-z0-9]+tri[^a-z0-9]+force[^a-z0-9]+heroes"
+  },
+  {
+   "game": "Mario & Luigi - Paper Jam Bros. (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru)",
+   "file": "jingles/n3ds/Rahal/Mario & Luigi - Paper Jam Bros. (Europe) (En,Fr,De,Es,It,Nl,Pt,Ru) (Rahal).ogg",
+   "regex": "mario[^a-z0-9]+luigi[^a-z0-9]+paper[^a-z0-9]+jam[^a-z0-9]+bros"
+  },
+  {
+   "game": "Rhythm Thief & the Emperor's Treasure (Europe) (En,Fr,De,Es,It)",
+   "file": "jingles/n3ds/Rahal/Rhythm Thief & the Emperor's Treasure (Europe) (En,Fr,De,Es,It) (Rahal).ogg",
+   "regex": "rhythm[^a-z0-9]+thief[^a-z0-9]+the[^a-z0-9]+emperor[^a-z0-9]+s[^a-z0-9]+treasure"
+  },
+  {
+   "game": "Xenoblade Chronicles 3D (Europe) (En,Fr,De,Es,It) (Rev 1)",
+   "file": "jingles/n3ds/Rahal/Xenoblade Chronicles 3D (Europe) (En,Fr,De,Es,It) (Rev 1) (Rahal).ogg",
+   "regex": "xenoblade[^a-z0-9]+chronicles[^a-z0-9]+3d"
+  }
+ ],
+ "nds": [
+  {
+   "game": "0017 - Ridge Racer DS (USA, Europe)",
+   "file": "jingles/nds/Rahal/0017 - Ridge Racer DS (USA, Europe) (Rahal).ogg",
+   "regex": "0017[^a-z0-9]+ridge[^a-z0-9]+racer[^a-z0-9]+ds"
+  },
+  {
+   "game": "0021 - Project Rub (Europe) (En,Ja,Fr,De,Es,It)",
+   "file": "jingles/nds/Rahal/0021 - Project Rub (Europe) (En,Ja,Fr,De,Es,It) (Rahal).ogg",
+   "regex": "0021[^a-z0-9]+project[^a-z0-9]+rub"
+  },
+  {
+   "game": "0428 - Trauma Center - Under the Knife (Europe) (En,Fr,De,Es,It)",
+   "file": "jingles/nds/Rahal/0428 - Trauma Center - Under the Knife (Europe) (En,Fr,De,Es,It) (Rahal).ogg",
+   "regex": "0428[^a-z0-9]+trauma[^a-z0-9]+center[^a-z0-9]+under[^a-z0-9]+the[^a-z0-9]+knife"
+  },
+  {
+   "game": "1081 - Moero! Nekketsu Rhythm Damashii - Osu! Tatakae! Ouendan 2 (Japan)",
+   "file": "jingles/nds/Rahal/1081 - Moero! Nekketsu Rhythm Damashii - Osu! Tatakae! Ouendan 2 (Japan) (Rahal).ogg",
+   "regex": "1081[^a-z0-9]+moero[^a-z0-9]+nekketsu[^a-z0-9]+rhythm[^a-z0-9]+damashii[^a-z0-9]+osu[^a-z0-9]+tatakae[^a-z0-9]+ouendan[^a-z0-9]+2"
+  },
+  {
+   "game": "1491 - Bleach - The Blade of Fate (U)(XenoPhobia)",
+   "file": "jingles/nds/Rahal/1491 - Bleach - The Blade of Fate (U)(XenoPhobia) (Rahal).ogg",
+   "regex": "1491[^a-z0-9]+bleach[^a-z0-9]+the[^a-z0-9]+blade[^a-z0-9]+of[^a-z0-9]+fate[^a-z0-9]+u[^a-z0-9]+xenophobia"
+  },
+  {
+   "game": "2421 - Trauma Center - Under the Knife 2 (USA)",
+   "file": "jingles/nds/Rahal/2421 - Trauma Center - Under the Knife 2 (USA) (Rahal).ogg",
+   "regex": "2421[^a-z0-9]+trauma[^a-z0-9]+center[^a-z0-9]+under[^a-z0-9]+the[^a-z0-9]+knife[^a-z0-9]+2"
+  },
+  {
+   "game": "2761 - Bleach - Dark Souls (U)(XenoPhobia)",
+   "file": "jingles/nds/Rahal/2761 - Bleach - Dark Souls (U)(XenoPhobia) (Rahal).ogg",
+   "regex": "2761[^a-z0-9]+bleach[^a-z0-9]+dark[^a-z0-9]+souls[^a-z0-9]+u[^a-z0-9]+xenophobia"
+  },
+  {
+   "game": "5355 - Nine Hours, Nine Persons, Nine Doors (USA)",
+   "file": "jingles/nds/Rahal/5355 - Nine Hours, Nine Persons, Nine Doors (USA) (Rahal).ogg",
+   "regex": "5355[^a-z0-9]+nine[^a-z0-9]+hours[^a-z0-9]+nine[^a-z0-9]+persons[^a-z0-9]+nine[^a-z0-9]+doors"
+  },
+  {
+   "game": "5473 - Kingdom Hearts - Re-coded (USA) (En,Fr,Es)",
+   "file": "jingles/nds/Rahal/5473 - Kingdom Hearts - Re-coded (USA) (En,Fr,Es) (Rahal).ogg",
+   "regex": "5473[^a-z0-9]+kingdom[^a-z0-9]+hearts[^a-z0-9]+re[^a-z0-9]+coded"
+  },
+  {
+   "game": "Ace Attorney Investigations - Miles Edgeworth (USA)",
+   "file": "jingles/nds/Rahal/Ace Attorney Investigations - Miles Edgeworth (USA) (Rahal).ogg",
+   "regex": "ace[^a-z0-9]+attorney[^a-z0-9]+investigations[^a-z0-9]+miles[^a-z0-9]+edgeworth"
+  },
+  {
+   "game": "Advance Wars - Dual Strike (Europe) (En,Fr,De,Es,It)",
+   "file": "jingles/nds/Rahal/Advance Wars - Dual Strike (Europe) (En,Fr,De,Es,It) (Rahal).ogg",
+   "regex": "advance[^a-z0-9]+wars[^a-z0-9]+dual[^a-z0-9]+strike"
+  },
+  {
+   "game": "All Kamen Rider - Rider Generation (Japan)",
+   "file": "jingles/nds/Rahal/All Kamen Rider - Rider Generation (Japan) (Rahal).ogg",
+   "regex": "all[^a-z0-9]+kamen[^a-z0-9]+rider[^a-z0-9]+rider[^a-z0-9]+generation"
+  },
+  {
+   "game": "Apollo Justice - Ace Attorney (USA)",
+   "file": "jingles/nds/Rahal/Apollo Justice - Ace Attorney (USA) (Rahal).ogg",
+   "regex": "apollo[^a-z0-9]+justice[^a-z0-9]+ace[^a-z0-9]+attorney"
+  },
+  {
+   "game": "Bleach DS 4th - Flame Bringer (Japan)",
+   "file": "jingles/nds/Rahal/Bleach DS 4th - Flame Bringer (Japan) (Rahal).ogg",
+   "regex": "bleach[^a-z0-9]+ds[^a-z0-9]+4th[^a-z0-9]+flame[^a-z0-9]+bringer"
+  },
+  {
+   "game": "Blood of Bahamut (Japan)",
+   "file": "jingles/nds/Rahal/Blood of Bahamut (Japan) (Rahal).ogg",
+   "regex": "blood[^a-z0-9]+of[^a-z0-9]+bahamut"
+  },
+  {
+   "game": "Chrono Trigger (Europe) (En,Fr)",
+   "file": "jingles/nds/Rahal/Chrono Trigger (Europe) (En,Fr) (Rahal).ogg",
+   "regex": "chrono[^a-z0-9]+trigger"
+  },
+  {
+   "game": "Coropata (Japan)",
+   "file": "jingles/nds/Rahal/Coropata (Japan) (Rahal).ogg",
+   "regex": "coropata"
+  },
+  {
+   "game": "Dementium - The Ward (Europe) (En,Fr,De,Es,It)",
+   "file": "jingles/nds/Rahal/Dementium - The Ward (Europe) (En,Fr,De,Es,It) (Rahal).ogg",
+   "regex": "dementium[^a-z0-9]+the[^a-z0-9]+ward"
+  },
+  {
+   "game": "Dementium II (USA) (En,Fr,De,Es,It)",
+   "file": "jingles/nds/Rahal/Dementium II (USA) (En,Fr,De,Es,It) (Rahal).ogg",
+   "regex": "dementium[^a-z0-9]+ii"
+  },
+  {
+   "game": "Digimon Story - Lost Evolution (Japan)",
+   "file": "jingles/nds/Rahal/Digimon Story - Lost Evolution (Japan) (Rahal).ogg",
+   "regex": "digimon[^a-z0-9]+story[^a-z0-9]+lost[^a-z0-9]+evolution"
+  },
+  {
+   "game": "Digimon World DS (USA)",
+   "file": "jingles/nds/Rahal/Digimon World DS (USA) (Rahal).ogg",
+   "regex": "digimon[^a-z0-9]+world[^a-z0-9]+ds"
+  },
+  {
+   "game": "Draglade (Europe) (En,Fr,De,Es,It)",
+   "file": "jingles/nds/Rahal/Draglade (Europe) (En,Fr,De,Es,It) (Rahal).ogg",
+   "regex": "draglade"
+  },
+  {
+   "game": "Dragon Ball Z - Attack of the Saiyans (Europe) (En,Fr,De,Es,It)",
+   "file": "jingles/nds/Rahal/Dragon Ball Z - Attack of the Saiyans (Europe) (En,Fr,De,Es,It) (Rahal).ogg",
+   "regex": "dragon[^a-z0-9]+ball[^a-z0-9]+z[^a-z0-9]+attack[^a-z0-9]+of[^a-z0-9]+the[^a-z0-9]+saiyans"
+  },
+  {
+   "game": "Dragon Ball Z - Supersonic Warriors 2 (Europe) (En,Fr,De,Es,It)",
+   "file": "jingles/nds/Rahal/Dragon Ball Z - Supersonic Warriors 2 (Europe) (En,Fr,De,Es,It) (Rahal).ogg",
+   "regex": "dragon[^a-z0-9]+ball[^a-z0-9]+z[^a-z0-9]+supersonic[^a-z0-9]+warriors[^a-z0-9]+2"
+  },
+  {
+   "game": "Dragon Quest - The Chapters of the Chosen (Europe) (En,Fr,De,Es,It)",
+   "file": "jingles/nds/Rahal/Dragon Quest - The Chapters of the Chosen (Europe) (En,Fr,De,Es,It) (Rahal).ogg",
+   "regex": "dragon[^a-z0-9]+quest[^a-z0-9]+the[^a-z0-9]+chapters[^a-z0-9]+of[^a-z0-9]+the[^a-z0-9]+chosen"
+  },
+  {
+   "game": "Dragon Quest - The Hand of the Heavenly Bride (Europe) (En,Fr,De,Es,It)",
+   "file": "jingles/nds/Rahal/Dragon Quest - The Hand of the Heavenly Bride (Europe) (En,Fr,De,Es,It) (Rahal).ogg",
+   "regex": "dragon[^a-z0-9]+quest[^a-z0-9]+the[^a-z0-9]+hand[^a-z0-9]+of[^a-z0-9]+the[^a-z0-9]+heavenly[^a-z0-9]+bride"
+  },
+  {
+   "game": "Dragon Quest IX - Sentinels of the Starry Skies (Europe) (En,Fr,De,Es,It)",
+   "file": "jingles/nds/Rahal/Dragon Quest IX - Sentinels of the Starry Skies (Europe) (En,Fr,De,Es,It) (Rahal).ogg",
+   "regex": "dragon[^a-z0-9]+quest[^a-z0-9]+ix[^a-z0-9]+sentinels[^a-z0-9]+of[^a-z0-9]+the[^a-z0-9]+starry[^a-z0-9]+skies"
+  },
+  {
+   "game": "Dragon Quest VI - Realms of Reverie (Europe) (En,Fr,De,Es,It)",
+   "file": "jingles/nds/Rahal/Dragon Quest VI - Realms of Reverie (Europe) (En,Fr,De,Es,It) (Rahal).ogg",
+   "regex": "dragon[^a-z0-9]+quest[^a-z0-9]+vi[^a-z0-9]+realms[^a-z0-9]+of[^a-z0-9]+reverie"
+  },
+  {
+   "game": "Final Fantasy IV (Europe) (En,Fr,De,Es,It)",
+   "file": "jingles/nds/Rahal/Final Fantasy IV (Europe) (En,Fr,De,Es,It) (Rahal).ogg",
+   "regex": "final[^a-z0-9]+fantasy[^a-z0-9]+iv"
+  },
+  {
+   "game": "Flower, Sun and Rain - Murder and Mystery in Paradise (Europe) (En,Fr,De,Es,It)",
+   "file": "jingles/nds/Rahal/Flower, Sun and Rain - Murder and Mystery in Paradise (Europe) (En,Fr,De,Es,It) (Rahal).ogg",
+   "regex": "flower[^a-z0-9]+sun[^a-z0-9]+and[^a-z0-9]+rain[^a-z0-9]+murder[^a-z0-9]+and[^a-z0-9]+mystery[^a-z0-9]+in[^a-z0-9]+paradise"
+  },
+  {
+   "game": "Garfield's Nightmare (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi)",
+   "file": "jingles/nds/Rahal/Garfield's Nightmare (Europe) (En,Fr,De,Es,It,Nl,Pt,Sv,No,Da,Fi) (Rahal).ogg",
+   "regex": "garfield[^a-z0-9]+s[^a-z0-9]+nightmare"
+  },
+  {
+   "game": "Ghost Trick - Phantom Detective (USA) (En,Fr,De,Es,It)",
+   "file": "jingles/nds/Rahal/Ghost Trick - Phantom Detective (USA) (En,Fr,De,Es,It) (Rahal).ogg",
+   "regex": "ghost[^a-z0-9]+trick[^a-z0-9]+phantom[^a-z0-9]+detective"
+  },
+  {
+   "game": "Giana Sisters DS (Europe) (En,Fr,De,Es,It)",
+   "file": "jingles/nds/Rahal/Giana Sisters DS (Europe) (En,Fr,De,Es,It) (Rahal).ogg",
+   "regex": "giana[^a-z0-9]+sisters[^a-z0-9]+ds"
+  },
+  {
+   "game": "Golden Sun - Dark Dawn (USA, Australia) (En,Es)",
+   "file": "jingles/nds/Rahal/Golden Sun - Dark Dawn (USA, Australia) (En,Es) (Rahal).ogg",
+   "regex": "golden[^a-z0-9]+sun[^a-z0-9]+dark[^a-z0-9]+dawn"
+  },
+  {
+   "game": "Jump Ultimate Stars (Japan)",
+   "file": "jingles/nds/Rahal/Jump Ultimate Stars (Japan) (Rahal).ogg",
+   "regex": "jump[^a-z0-9]+ultimate[^a-z0-9]+stars"
+  },
+  {
+   "game": "Kirby - Power Paintbrush (Europe) (En,Fr,De,Es,It)",
+   "file": "jingles/nds/Rahal/Kirby - Power Paintbrush (Europe) (En,Fr,De,Es,It) (Rahal).ogg",
+   "regex": "kirby[^a-z0-9]+power[^a-z0-9]+paintbrush"
+  },
+  {
+   "game": "LEGO Indiana Jones - The Original Adventures (Europe) (En,Fr,De,Es,It,Da)",
+   "file": "jingles/nds/Rahal/LEGO Indiana Jones - The Original Adventures (Europe) (En,Fr,De,Es,It,Da) (Rahal).ogg",
+   "regex": "lego[^a-z0-9]+indiana[^a-z0-9]+jones[^a-z0-9]+the[^a-z0-9]+original[^a-z0-9]+adventures"
+  },
+  {
+   "game": "LEGO Marvel Super Heroes - Universe in Peril (Europe) (En,Fr,De,Es,It,Nl,Da)",
+   "file": "jingles/nds/Rahal/LEGO Marvel Super Heroes - Universe in Peril (Europe) (En,Fr,De,Es,It,Nl,Da) (Rahal).ogg",
+   "regex": "lego[^a-z0-9]+marvel[^a-z0-9]+super[^a-z0-9]+heroes[^a-z0-9]+universe[^a-z0-9]+in[^a-z0-9]+peril"
+  },
+  {
+   "game": "LEGO Pirates of the Caribbean - The Video Game (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da)",
+   "file": "jingles/nds/Rahal/LEGO Pirates of the Caribbean - The Video Game (Europe) (En,Fr,De,Es,It,Nl,Sv,No,Da) (Rahal).ogg",
+   "regex": "lego[^a-z0-9]+pirates[^a-z0-9]+of[^a-z0-9]+the[^a-z0-9]+caribbean[^a-z0-9]+the[^a-z0-9]+video[^a-z0-9]+game"
+  },
+  {
+   "game": "LEGO Rock Band (USA) (En,Fr,De,Es,It,Da)",
+   "file": "jingles/nds/Rahal/LEGO Rock Band (USA) (En,Fr,De,Es,It,Da) (Rahal).ogg",
+   "regex": "lego[^a-z0-9]+rock[^a-z0-9]+band"
+  },
+  {
+   "game": "LEGO Star Wars - The Complete Saga (Europe) (En,Fr,De,Es,It,Da)",
+   "file": "jingles/nds/Rahal/LEGO Star Wars - The Complete Saga (Europe) (En,Fr,De,Es,It,Da) (Rahal).ogg",
+   "regex": "lego[^a-z0-9]+star[^a-z0-9]+wars[^a-z0-9]+the[^a-z0-9]+complete[^a-z0-9]+saga"
+  },
+  {
+   "game": "Legend of Zelda, The - Phantom Hourglass (USA) (En,Fr,Es)",
+   "file": "jingles/nds/Rahal/Legend of Zelda, The - Phantom Hourglass (USA) (En,Fr,Es) (Rahal).ogg",
+   "regex": "legend[^a-z0-9]+of[^a-z0-9]+zelda[^a-z0-9]+the[^a-z0-9]+phantom[^a-z0-9]+hourglass"
+  },
+  {
+   "game": "Legend of Zelda, The - Spirit Tracks (USA) (En,Fr,Es) (Rev 1)",
+   "file": "jingles/nds/Rahal/Legend of Zelda, The - Spirit Tracks (USA) (En,Fr,Es) (Rev 1) (Rahal).ogg",
+   "regex": "legend[^a-z0-9]+of[^a-z0-9]+zelda[^a-z0-9]+the[^a-z0-9]+spirit[^a-z0-9]+tracks"
+  },
+  {
+   "game": "Legendary Starfy, The (USA)",
+   "file": "jingles/nds/Rahal/Legendary Starfy, The (USA) (Rahal).ogg",
+   "regex": "legendary[^a-z0-9]+starfy[^a-z0-9]+the"
+  },
+  {
+   "game": "Mario & Luigi - Bowser's Inside Story (Europe) (En,Fr,De,Es,It)",
+   "file": "jingles/nds/Rahal/Mario & Luigi - Bowser's Inside Story (Europe) (En,Fr,De,Es,It) (Rahal).ogg",
+   "regex": "mario[^a-z0-9]+luigi[^a-z0-9]+bowser[^a-z0-9]+s[^a-z0-9]+inside[^a-z0-9]+story"
+  },
+  {
+   "game": "Mario Party DS (Europe) (En,Fr,De,Es,It) (Rev 1)",
+   "file": "jingles/nds/Rahal/Mario Party DS (Europe) (En,Fr,De,Es,It) (Rev 1) (Rahal).ogg",
+   "regex": "mario[^a-z0-9]+party[^a-z0-9]+ds"
+  },
+  {
+   "game": "Mario vs. Donkey Kong - Mini-Land Mayhem! (Europe) (En,Fr,De,Es,It) (NDSi Enhanced)",
+   "file": "jingles/nds/Rahal/Mario vs. Donkey Kong - Mini-Land Mayhem! (Europe) (En,Fr,De,Es,It) (NDSi Enhanced) (Rahal).ogg",
+   "regex": "mario[^a-z0-9]+vs[^a-z0-9]+donkey[^a-z0-9]+kong[^a-z0-9]+mini[^a-z0-9]+land[^a-z0-9]+mayhem[^a-z0-9]+ndsi[^a-z0-9]+enhanced"
+  },
+  {
+   "game": "Marvel Trading Card Game (USA)",
+   "file": "jingles/nds/Rahal/Marvel Trading Card Game (USA) (Rahal).ogg",
+   "regex": "marvel[^a-z0-9]+trading[^a-z0-9]+card[^a-z0-9]+game"
+  },
+  {
+   "game": "Mega Man Star Force - Leo (Europe) (En,Fr,De,Es,It)",
+   "file": "jingles/nds/Rahal/Mega Man Star Force - Leo (Europe) (En,Fr,De,Es,It) (Rahal).ogg",
+   "regex": "mega[^a-z0-9]+man[^a-z0-9]+star[^a-z0-9]+force[^a-z0-9]+leo"
+  },
+  {
+   "game": "Mega Man Star Force 2 - Zerker x Ninja (Europe) (En,Fr,De,Es,It)",
+   "file": "jingles/nds/Rahal/Mega Man Star Force 2 - Zerker x Ninja (Europe) (En,Fr,De,Es,It) (Rahal).ogg",
+   "regex": "mega[^a-z0-9]+man[^a-z0-9]+star[^a-z0-9]+force[^a-z0-9]+2[^a-z0-9]+zerker[^a-z0-9]+x[^a-z0-9]+ninja"
+  },
+  {
+   "game": "Mega Man Zero Collection (Europe)",
+   "file": "jingles/nds/Rahal/Mega Man Zero Collection (Europe) (Rahal).ogg",
+   "regex": "mega[^a-z0-9]+man[^a-z0-9]+zero[^a-z0-9]+collection"
+  },
+  {
+   "game": "Metal Slug 7 (Europe) (En,Fr,De,Es,It)",
+   "file": "jingles/nds/Rahal/Metal Slug 7 (Europe) (En,Fr,De,Es,It) (Rahal).ogg",
+   "regex": "metal[^a-z0-9]+slug[^a-z0-9]+7"
+  },
+  {
+   "game": "Nanashi no Geemu (Japan)",
+   "file": "jingles/nds/Rahal/Nanashi no Geemu (Japan) (Rahal).ogg",
+   "regex": "nanashi[^a-z0-9]+no[^a-z0-9]+geemu"
+  },
+  {
+   "game": "Naruto - Path of the Ninja 2 (USA) (En,Fr)",
+   "file": "jingles/nds/Rahal/Naruto - Path of the Ninja 2 (USA) (En,Fr) (Rahal).ogg",
+   "regex": "naruto[^a-z0-9]+path[^a-z0-9]+of[^a-z0-9]+the[^a-z0-9]+ninja[^a-z0-9]+2"
+  },
+  {
+   "game": "Need for Speed - Most Wanted (USA)",
+   "file": "jingles/nds/Rahal/Need for Speed - Most Wanted (USA) (Rahal).ogg",
+   "regex": "need[^a-z0-9]+for[^a-z0-9]+speed[^a-z0-9]+most[^a-z0-9]+wanted"
+  },
+  {
+   "game": "Ni no Kuni - Shikkoku no Madoushi (Japan)",
+   "file": "jingles/nds/Rahal/Ni no Kuni - Shikkoku no Madoushi (Japan) (Rahal).ogg",
+   "regex": "ni[^a-z0-9]+no[^a-z0-9]+kuni[^a-z0-9]+shikkoku[^a-z0-9]+no[^a-z0-9]+madoushi"
+  },
+  {
+   "game": "Nintendogs - Labrador & Friends (Europe) (En,Fr,De,Es,It)",
+   "file": "jingles/nds/Rahal/Nintendogs - Labrador & Friends (Europe) (En,Fr,De,Es,It) (Rahal).ogg",
+   "regex": "nintendogs[^a-z0-9]+labrador[^a-z0-9]+friends"
+  },
+  {
+   "game": "Osu! Tatakae! Ouendan (Japan)",
+   "file": "jingles/nds/Rahal/Osu! Tatakae! Ouendan (Japan) (Rahal).ogg",
+   "regex": "osu[^a-z0-9]+tatakae[^a-z0-9]+ouendan"
+  },
+  {
+   "game": "Phoenix Wright - Ace Attorney (USA)",
+   "file": "jingles/nds/Rahal/Phoenix Wright - Ace Attorney (USA) (Rahal).ogg",
+   "regex": "phoenix[^a-z0-9]+wright[^a-z0-9]+ace[^a-z0-9]+attorney"
+  },
+  {
+   "game": "Phoenix Wright - Ace Attorney - Justice for All (USA)",
+   "file": "jingles/nds/Rahal/Phoenix Wright - Ace Attorney - Justice for All (USA) (Rahal).ogg",
+   "regex": "phoenix[^a-z0-9]+wright[^a-z0-9]+ace[^a-z0-9]+attorney[^a-z0-9]+justice[^a-z0-9]+for[^a-z0-9]+all"
+  },
+  {
+   "game": "Phoenix Wright - Ace Attorney - Trials and Tribulations (USA)",
+   "file": "jingles/nds/Rahal/Phoenix Wright - Ace Attorney - Trials and Tribulations (USA) (Rahal).ogg",
+   "regex": "phoenix[^a-z0-9]+wright[^a-z0-9]+ace[^a-z0-9]+attorney[^a-z0-9]+trials[^a-z0-9]+and[^a-z0-9]+tribulations"
+  },
+  {
+   "game": "Pokemon - Black Version (USA, Europe) (NDSi Enhanced)",
+   "file": "jingles/nds/Rahal/Pokemon - Black Version (USA, Europe) (NDSi Enhanced) (Rahal).ogg",
+   "regex": "pokemon[^a-z0-9]+black[^a-z0-9]+version[^a-z0-9]+ndsi[^a-z0-9]+enhanced"
+  },
+  {
+   "game": "Pokemon - Black Version 2 (USA, Europe) (NDSi Enhanced)",
+   "file": "jingles/nds/Rahal/Pokemon - Black Version 2 (USA, Europe) (NDSi Enhanced) (Rahal).ogg",
+   "regex": "pokemon[^a-z0-9]+black[^a-z0-9]+version[^a-z0-9]+2[^a-z0-9]+ndsi[^a-z0-9]+enhanced"
+  },
+  {
+   "game": "Pokemon - White Version (USA, Europe) (NDSi Enhanced)",
+   "file": "jingles/nds/Rahal/Pokemon - White Version (USA, Europe) (NDSi Enhanced) (Rahal).ogg",
+   "regex": "pokemon[^a-z0-9]+white[^a-z0-9]+version[^a-z0-9]+ndsi[^a-z0-9]+enhanced"
+  },
+  {
+   "game": "Pokemon - White Version 2 (USA, Europe) (NDSi Enhanced)",
+   "file": "jingles/nds/Rahal/Pokemon - White Version 2 (USA, Europe) (NDSi Enhanced) (Rahal).ogg",
+   "regex": "pokemon[^a-z0-9]+white[^a-z0-9]+version[^a-z0-9]+2[^a-z0-9]+ndsi[^a-z0-9]+enhanced"
+  },
+  {
+   "game": "Pokemon Conquest (Europe) (NDSi Enhanced)",
+   "file": "jingles/nds/Rahal/Pokemon Conquest (Europe) (NDSi Enhanced) (Rahal).ogg",
+   "regex": "pokemon[^a-z0-9]+conquest[^a-z0-9]+ndsi[^a-z0-9]+enhanced"
+  },
+  {
+   "game": "Pokemon Following Renegade Platinum",
+   "file": "jingles/nds/Rahal/Pokemon Following Renegade Platinum (Rahal).ogg",
+   "regex": "pokemon[^a-z0-9]+following[^a-z0-9]+renegade[^a-z0-9]+platinum"
+  },
+  {
+   "game": "Pokemon Mystery Dungeon A Dark Past Episode 0 (alt 234MB)",
+   "file": "jingles/nds/Rahal/Pokemon Mystery Dungeon A Dark Past Episode 0 (alt 234MB) (Rahal).ogg",
+   "regex": "pokemon[^a-z0-9]+mystery[^a-z0-9]+dungeon[^a-z0-9]+a[^a-z0-9]+dark[^a-z0-9]+past[^a-z0-9]+episode[^a-z0-9]+0[^a-z0-9]+alt[^a-z0-9]+234mb"
+  },
+  {
+   "game": "Ragnarok DS (USA)",
+   "file": "jingles/nds/Rahal/Ragnarok DS (USA) (Rahal).ogg",
+   "regex": "ragnarok[^a-z0-9]+ds"
+  },
+  {
+   "game": "Retro Game Challenge (USA)",
+   "file": "jingles/nds/Rahal/Retro Game Challenge (USA) (Rahal).ogg",
+   "regex": "retro[^a-z0-9]+game[^a-z0-9]+challenge"
+  },
+  {
+   "game": "Rhythm Heaven (USA)",
+   "file": "jingles/nds/Rahal/Rhythm Heaven (USA) (Rahal).ogg",
+   "regex": "rhythm[^a-z0-9]+heaven"
+  },
+  {
+   "game": "Rock Band 3 (Europe) (En,Fr,De,Es,It)",
+   "file": "jingles/nds/Rahal/Rock Band 3 (Europe) (En,Fr,De,Es,It) (Rahal).ogg",
+   "regex": "rock[^a-z0-9]+band[^a-z0-9]+3"
+  },
+  {
+   "game": "Sims 2, The (USA) (En,Fr,De,Es,It)",
+   "file": "jingles/nds/Rahal/Sims 2, The (USA) (En,Fr,De,Es,It) (Rahal).ogg",
+   "regex": "sims[^a-z0-9]+2[^a-z0-9]+the"
+  },
+  {
+   "game": "Sonic & SEGA All-Stars Racing (Europe) (En,Fr,De,Es,It)",
+   "file": "jingles/nds/Rahal/Sonic & SEGA All-Stars Racing (Europe) (En,Fr,De,Es,It) (Rahal).ogg",
+   "regex": "sonic[^a-z0-9]+sega[^a-z0-9]+all[^a-z0-9]+stars[^a-z0-9]+racing"
+  },
+  {
+   "game": "SpongeBob's Truth or Square (USA)",
+   "file": "jingles/nds/Rahal/SpongeBob's Truth or Square (USA) (Rahal).ogg",
+   "regex": "spongebob[^a-z0-9]+s[^a-z0-9]+truth[^a-z0-9]+or[^a-z0-9]+square"
+  },
+  {
+   "game": "Star Wars - Episode III - Revenge of the Sith (Europe) (En,Fr,De,Es,It,Nl)",
+   "file": "jingles/nds/Rahal/Star Wars - Episode III - Revenge of the Sith (Europe) (En,Fr,De,Es,It,Nl) (Rahal).ogg",
+   "regex": "star[^a-z0-9]+wars[^a-z0-9]+episode[^a-z0-9]+iii[^a-z0-9]+revenge[^a-z0-9]+of[^a-z0-9]+the[^a-z0-9]+sith"
+  },
+  {
+   "game": "Sudoku Gridmaster (USA)",
+   "file": "jingles/nds/Rahal/Sudoku Gridmaster (USA) (Rahal).ogg",
+   "regex": "sudoku[^a-z0-9]+gridmaster"
+  },
+  {
+   "game": "Super Mario 64 DS (Europe) (En,Fr,De,Es,It)",
+   "file": "jingles/nds/Rahal/Super Mario 64 DS (Europe) (En,Fr,De,Es,It) (Rahal).ogg",
+   "regex": "super[^a-z0-9]+mario[^a-z0-9]+64[^a-z0-9]+ds"
+  },
+  {
+   "game": "World Ends with You, The (USA)",
+   "file": "jingles/nds/Rahal/World Ends with You, The (USA) (Rahal).ogg",
+   "regex": "world[^a-z0-9]+ends[^a-z0-9]+with[^a-z0-9]+you[^a-z0-9]+the"
+  },
+  {
+   "game": "Yu-Gi-Oh! - World Championship 2007 (USA) (En,Ja)",
+   "file": "jingles/nds/Rahal/Yu-Gi-Oh! - World Championship 2007 (USA) (En,Ja) (Rahal).ogg",
+   "regex": "yu[^a-z0-9]+gi[^a-z0-9]+oh[^a-z0-9]+world[^a-z0-9]+championship[^a-z0-9]+2007"
+  }
+ ],
+ "switch": [
+  {
+   "game": "Clubhouse Games 51 Worldwide Classics",
+   "file": "jingles/switch/Rahal/Clubhouse Games 51 Worldwide Classics (Rahal).ogg",
+   "regex": "clubhouse[^a-z0-9]+games[^a-z0-9]+51[^a-z0-9]+worldwide[^a-z0-9]+classics"
+  },
+  {
+   "game": "Fire Emblem Three Houses",
+   "file": "jingles/switch/Rahal/Fire Emblem Three Houses (Rahal).ogg",
+   "regex": "fire[^a-z0-9]+emblem[^a-z0-9]+three[^a-z0-9]+houses"
+  },
+  {
+   "game": "Luminescent Platinum",
+   "file": "jingles/switch/Rahal/Luminescent Platinum (Rahal).ogg",
+   "regex": "luminescent[^a-z0-9]+platinum"
+  },
+  {
+   "game": "Mario Strikers Battle League [010019401051C000][v0][US]",
+   "file": "jingles/switch/Rahal/Mario Strikers Battle League [010019401051C000][v0][US] (Rahal).ogg",
+   "regex": "mario[^a-z0-9]+strikers[^a-z0-9]+battle[^a-z0-9]+league"
+  },
+  {
+   "game": "Mario Tennis Aces",
+   "file": "jingles/switch/Rahal/Mario Tennis Aces (Rahal).ogg",
+   "regex": "mario[^a-z0-9]+tennis[^a-z0-9]+aces"
+  },
+  {
+   "game": "Pokemon Legends Arceus",
+   "file": "jingles/switch/Rahal/Pokemon Legends Arceus (Rahal).ogg",
+   "regex": "pokemon[^a-z0-9]+legends[^a-z0-9]+arceus"
+  },
+  {
+   "game": "Pokemon Legends Z-A [0100F43008C44000][v0]",
+   "file": "jingles/switch/Rahal/Pokemon Legends Z-A [0100F43008C44000][v0] (Rahal).ogg",
+   "regex": "pokemon[^a-z0-9]+legends[^a-z0-9]+z[^a-z0-9]+a"
+  },
+  {
+   "game": "Pokemon Mystery Dungeon Rescue Team DX (RPK)",
+   "file": "jingles/switch/Rahal/Pokemon Mystery Dungeon Rescue Team DX (RPK) (Rahal).ogg",
+   "regex": "pokemon[^a-z0-9]+mystery[^a-z0-9]+dungeon[^a-z0-9]+rescue[^a-z0-9]+team[^a-z0-9]+dx[^a-z0-9]+rpk"
+  },
+  {
+   "game": "Pokemon Sword plus Pokemon Sword Expansion Pass",
+   "file": "jingles/switch/Rahal/Pokemon Sword plus Pokemon Sword Expansion Pass (Rahal).ogg",
+   "regex": "pokemon[^a-z0-9]+sword[^a-z0-9]+plus[^a-z0-9]+pokemon[^a-z0-9]+sword[^a-z0-9]+expansion[^a-z0-9]+pass"
+  },
+  {
+   "game": "Rhythm Heaven Groove [0100D9F01D474000][v0][Base]",
+   "file": "jingles/switch/Rahal/Rhythm Heaven Groove [0100D9F01D474000][v0][Base] (Rahal).ogg",
+   "regex": "rhythm[^a-z0-9]+heaven[^a-z0-9]+groove"
+  },
+  {
+   "game": "Super Mario Party Jamboree [0100965017338000][v0]",
+   "file": "jingles/switch/Rahal/Super Mario Party Jamboree [0100965017338000][v0] (Rahal).ogg",
+   "regex": "super[^a-z0-9]+mario[^a-z0-9]+party[^a-z0-9]+jamboree"
+  },
+  {
+   "game": "The Legend of Zelda Skyward Sword HD [01002DA013484000][v0]",
+   "file": "jingles/switch/Rahal/The Legend of Zelda Skyward Sword HD [01002DA013484000][v0] (Rahal).ogg",
+   "regex": "the[^a-z0-9]+legend[^a-z0-9]+of[^a-z0-9]+zelda[^a-z0-9]+skyward[^a-z0-9]+sword[^a-z0-9]+hd"
+  },
+  {
+   "game": "Xenoblade Chronicles 2 Usa",
+   "file": "jingles/switch/Rahal/Xenoblade Chronicles 2 Usa (Rahal).ogg",
+   "regex": "xenoblade[^a-z0-9]+chronicles[^a-z0-9]+2[^a-z0-9]+usa"
+  }
+ ],
+ "wii": [
+  {
+   "game": "Beat the Beat - Rhythm Paradise (Europe, Australia) (En,Fr,De,Es,It)",
+   "file": "jingles/wii/Rahal/Beat the Beat - Rhythm Paradise (Europe, Australia) (En,Fr,De,Es,It) (Rahal).ogg",
+   "regex": "beat[^a-z0-9]+the[^a-z0-9]+beat[^a-z0-9]+rhythm[^a-z0-9]+paradise"
+  }
+ ]
+}

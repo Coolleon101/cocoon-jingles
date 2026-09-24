@@ -1,0 +1,35 @@
+# Only the jingles and index.json get published. Everything else is local
+# tooling, working files, or large captures - none of it belongs in a public repo.
+
+# tooling
+*.py
+__pycache__/
+README.txt
+
+# working state and logs
+_auto/
+_inbox/
+*.log
+worklist.json
+autograb-log.json
+autograb-log.before.json
+ds-sdat-report.json
+gamebar-queue*.json
+retry-sendinput.txt
+*.txt
+!jingles/**/*.txt
+
+# raw captures - these are 70 MB each
+*.mp4
+*.mkv
+*.mov
+*.wav
+*.webm
+*.avi
+
+# never publish anything that could carry local paths or machine detail
+*.ini
+*.cfg
+.DS_Store
+Thumbs.db
+desktop.ini
